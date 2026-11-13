@@ -25,7 +25,7 @@ async function waitForFlask(retries = 40): Promise<void> {
 }
 
 function startFlaskProcess(): ChildProcess {
-  const proc = spawn('python3', ['-m', 'backend.app'], {
+  const proc = spawn('python', ['-m', 'backend.app'], {
     cwd: __dirname,
     env: {
       ...process.env,
