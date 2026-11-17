@@ -1,7 +1,5 @@
 # MetroPulse — Metro Station Anomaly Reporter
 
-## Demo- https://006-50-p6.vercel.app/
-
 ## 1. Problem Statement
 
 Urban metro rail networks handle thousands of daily passenger movements across multiple corridors, where operational issues—such as platform overcrowding, escalator or signaling breakdowns, sanitation hazards, safety threats, and sudden medical emergencies—require rapid, accurate reporting and structured escalation.
